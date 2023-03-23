@@ -12,7 +12,7 @@
     - name: start HTTPD
       service:
         name: HTTPD
-        state: started
+        state: Started
     - name: Enable HTTPD
     
       service:
