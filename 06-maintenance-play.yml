@@ -1,6 +1,6 @@
 ---
 - name: under Maintenance
-  hosts: g1
+  hosts: group1
   become: yes
 
   tasks:
